@@ -1,2 +1,2 @@
 # German_Numbers
- A repository where I include programs that I made to help with my studies of the german language.
+ A program that prompts the user to enter a number (from 0 to 99) and shows how to write/speak it in german.
